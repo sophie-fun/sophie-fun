@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🐢 我是谁？
 
-<!--
-**sophie-fun/sophie-fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java开发｜软件工程师
 
-Here are some ideas to get you started:
+无限游戏玩家
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤡 我想说：
+
+唯一不变的就是变化本身，共勉。
+
+### 📫 分享与交流：
+
+[恰在灯火阑珊处-CSDN博客](https://blog.csdn.net/qq_36894378?spm=1000.2115.3001.5343)
+
+邮箱📮：tangqq_fun@163.com
